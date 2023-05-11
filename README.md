@@ -3,11 +3,6 @@ Text Store with Java
 
 PatikaStore
 
-
-Patika ekibi elektronik eşyaların satıldığı bir sanal bir mağaza açmaya karar verdi ve bu mağazanın ürün yönetim sistemini siz patika gönüllülerinden yapmasını ekliyor.
-
-
-
 Sanal Mağazanın adı "PatikaStore" olacaktır.
 
 
@@ -104,7 +99,7 @@ Ekran Boyutu (14 inç)
 Kullanıcı sistem üzerinden ilgili kategorideki (Notebook, Cep Telefonları vb.) ürünleri listeyebilimeli
 
 
-Ürünler listelenirken tablo şeklinde konsol ekranında gösterilmeli (System.out.format() kullanılabilir).
+Ürünler listelenirken tablo şeklinde konsol ekranında gösterilmeli
 
 
 Kullanıcı ürün ekleyebilmeli ve ürünün grubunu (Cep Telefonu, Notebook vb.) seçebilmeli.
